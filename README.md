@@ -21,5 +21,5 @@ bucket-takeover.py  -u < Valid Bucket URL with http:// or https:// >
 OPTIONS: 
 
 ```
--u            valid bucket URL with http:// or https://
+-u            valid bucket URL with http:// or https:// or a text file with bucket names 
   		< bucket is avaibale for takeover or not >
